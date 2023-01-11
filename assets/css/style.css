@@ -364,6 +364,11 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+.albert {
+ font-weight: bold;
+ color:#173b6c ; 
+}
+
 
 /*--------------------------------------------------------------
 # Facts
@@ -832,6 +837,11 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+}
+
+#name-or {
+	color : #173b6c; 
+	font-weight: bold;
 }
 
 .contact .info {
